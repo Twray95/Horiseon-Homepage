@@ -11,7 +11,7 @@ body {
   font-size: 16px;
 }
 
-/* these header classes set up the name of the header and company name styling */
+/* these header classes set up styling for the name of the company and header styling */
 .header {
   padding: 20px;
   background-color: #2a607c;
@@ -62,6 +62,7 @@ a {
   height: 100%;
 }
 
+/* pushes images within the content section to left of right side of the individual aritcles */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -101,6 +102,7 @@ a {
   background-color: #2589bd;
 }
 
+/* formats the individual sections within <aside> */
 .benefit-info {
   margin-bottom: 32px;
   color: #ffffff;
